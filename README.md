@@ -8,7 +8,7 @@ where an adopted user is defined as a user who has logged into the
 Relax site on three separate days in at least one seven­day period.
 Data is provided in two csv files: one file has login times for each 
 customer and the second file has customer data with various features
-such as customer name and the organization they belong to.
+such as the customer name and the organization they belong to.
 
 Python code used for this project is provided in Juptyer Notebooks, and
 a written report is provided as a pdf file. 
