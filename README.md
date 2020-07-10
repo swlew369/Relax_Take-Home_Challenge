@@ -1,7 +1,7 @@
 # Relax_Take-Home_Challenge
 
 This project is part of the SpringBoard Data Science curriculum.
-In this challenge, Relax, a company with a website, is interested in determining
+In this challenge, Relax, a company, is interested in determining
 which of their customers will become "adopters". Machine Learning methods
 are used to identify factors that will predict future user adoption, 
 where an adopted user is defined as a user who has logged into the 
