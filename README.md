@@ -10,8 +10,8 @@ Data is provided in two csv files: one file has login times for each
 customer and the second file has customer data with various features
 such as customer name and the organization they belong to.
 
-Python code is provided in Juptyer Notebooks, and a written report
-is a pdf file. 
+Python code used for this project is provided in Juptyer Notebooks, and
+a written report is provided as a pdf file. 
 
 **Code**
 
