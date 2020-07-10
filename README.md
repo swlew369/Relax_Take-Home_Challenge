@@ -15,6 +15,16 @@ a written report is provided as a pdf file.
 
 **Code**
 
+[EDA and Merge Data](https://github.com/swlew369/Relax_Take-Home_Challenge/blob/master/Relax_Challenge_EDA_Merge_Data.ipynb)
+
+[EDA Part 2](https://github.com/swlew369/Relax_Take-Home_Challenge/blob/master/Relax_Challenge_EDA_2.ipynb)
+
+[Classifier](https://github.com/swlew369/Relax_Take-Home_Challenge/blob/master/Relax_Challenge_Classification_XGBoost.ipynb)
+
+
 
 **Report**
+
+[report as pdf file]()
+
 
