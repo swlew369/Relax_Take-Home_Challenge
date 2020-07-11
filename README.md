@@ -25,6 +25,6 @@ a written report is provided as a pdf file.
 
 **Report**
 
-[report as pdf file]()
+[report as pdf file](https://github.com/swlew369/Relax_Take-Home_Challenge/blob/master/Relax_Challenge_Report_Lew.pdf)
 
 
